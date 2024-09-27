@@ -1,4 +1,0 @@
-# clases
- lnd
-
- 
