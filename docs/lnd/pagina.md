@@ -30,6 +30,7 @@ Principales usos son la documentación técnica, Blogs, archivos README en proye
 
 **Respuesta:**  
 Markdown es diferente de otros lenguajes de marcado como HTML debido a su sencillez y legibilidad. Comparación entre Markdown y HTML:
+
 | Característica      | Markdown | HTML       |
 |-------------|------|--------------|
 | Legilidad  | Alta   | Baja       |
