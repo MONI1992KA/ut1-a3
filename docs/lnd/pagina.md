@@ -35,10 +35,12 @@ Markdown es diferente de otros lenguajes de marcado como HTML debido a su sencil
 | Legilidad  | Alta   | Baja       |
 | Complejidad   | Baja   | Alta    |
 | Conversión a HTML| Directa y fácil   | Requiere más esfuerzo     |
+
 Ventajas de Markdown:
 -	Más fácil de aprender.
 -	Más rápido para escribir.
 -	Legible sin renderizar.
+
 Inconvenientes:
 -	Menos flexibilidad para diseño avanzado.
 -	Funciones limitadas en comparación con HTML.
