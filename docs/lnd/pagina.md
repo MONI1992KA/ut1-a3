@@ -1,9 +1,15 @@
 # UT1-A2 - Introducción a Markdown
 
-## Tabla de Contenido
+## Contenido
 - [Pregunta 1](#pregunta-1)
 - [Pregunta 2](#pregunta-2)
 - [Pregunta 3](#pregunta-3)
+- [Pregunta 4](#pregunta-4)
+- [Pregunta 5](#pregunta-5)
+- [Pregunta 6](#pregunta-6)
+- [Pregunta 7](#pregunta-7)
+- [Pregunta 8](#pregunta-8)
+
 
 ---
 
