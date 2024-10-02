@@ -17,10 +17,11 @@
 **¿Qué es Markdown y para qué se utiliza? Investiga el origen y los principales usos del lenguaje Markdown. ¿En qué contexto se desarrolló y por qué?**
 
 **Respuesta:**  
+<p style="text-align: justify;">
 Markdown es un lenguaje de marcado ligero creado por John Gruber en 2004. Se utiliza principalmente para formatear texto de manera sencilla y legible, permitiendo a los usuarios escribir usando una sintaxis fácil que se puede convertir a HTML.
 Markdown se desarrolló para facilitar la escritura de contenido en la web sin complicaciones. Su simplicidad permite a los autores enfocarse en el contenido más que en el formato.
 Principales usos son la documentación técnica, Blogs, archivos README en proyectos de software y notas y lista
-
+</p>
 
 ---
 
