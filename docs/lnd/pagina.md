@@ -8,7 +8,7 @@
 ---
 
 ## Pregunta 1
-**¿Cuál es el tema de la pregunta?**
+**¿Qué es Markdown y para qué se utiliza? Investiga el origen y los principales usos del lenguaje Markdown. ¿En qué contexto se desarrolló y por qué?**
 
 **Respuesta:**  
 Aquí puedes escribir una respuesta detallada a la pregunta. Puedes incluir ejemplos, datos o cualquier información relevante.
