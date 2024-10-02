@@ -25,10 +25,15 @@ Principales usos son la documentación técnica, Blogs, archivos README en proye
 ---
 
 ## Pregunta 2
-**¿Cuál es el tema de la pregunta?**
+**¿Cuáles son las características principales de Markdown que lo hacen diferente de otros lenguajes de marcas de presentación? Compara Markdown con HTML. ¿Qué ventajas e inconvenientes tiene Markdown frente a HTML?**
 
 **Respuesta:**  
-Aquí puedes escribir una respuesta detallada a la pregunta. Puedes incluir ejemplos, datos o cualquier información relevante.
+Markdown es diferente de otros lenguajes de marcado como HTML debido a su sencillez y legibilidad. Comparación entre Markdown y HTML:
+| Característica   | Markdown | HTML         |
+|------------------|----------|--------------|
+| Legibilidad      | Alta     | Baja         |
+| Complejidad      | Baja     | Alta         |
+| Conversión a HTML| Directa y fácil  | Requiere más esfuerzo  |
 
 ---
 
