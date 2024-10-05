@@ -21,7 +21,7 @@
 Markdown es un lenguaje de marcado ligero creado por John Gruber en 2004. Se utiliza principalmente para formatear texto de manera sencilla y legible, permitiendo a los usuarios escribir usando una sintaxis fácil que se puede convertir a HTML.
 Markdown se desarrolló para facilitar la escritura de contenido en la web sin complicaciones. Su simplicidad permite a los autores enfocarse en el contenido más que en el formato.
 Principales usos son la documentación técnica, Blogs, archivos README en proyectos de software y notas y lista
-</p>
+
 
 ---
 
@@ -52,10 +52,18 @@ Inconvenientes:
 **¿Qué aplicaciones o plataformas utilizan Markdown? Busca ejemplos de plataformas populares donde se utilice Markdown, como GitHub, blogs, o gestores de contenido. ¿Por qué crees que esas plataformas han adoptado Markdown?**
 
 **Respuesta:**  
-Aquí puedes escribir una respuesta detallada a la pregunta. Puedes incluir ejemplos, datos o cualquier información relevante.
+Algunas plataformas populares que utilizan Markdown incluyen:
+-   GitHub: para documentación de proyectos y archivos README.
+-	WordPress: en algunos plugins y editores.
+-	Notion: para tomar notas y organizar información.
+Razones para adoptar Markdown
+-	Sencillez y eficiencia en la edición.
+-	Facilita la colaboración entre usuarios técnicos y no técnicos.
+puedes escribir una respuesta detallada a la pregunta. Puedes incluir ejemplos, datos o cualquier información relevante.
 
 ---
 
 ## Notas Adicionales
 Si hay información adicional o consideraciones que desees mencionar, este es el lugar para hacerlo.
 
+</p>
