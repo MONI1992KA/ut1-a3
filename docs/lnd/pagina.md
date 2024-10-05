@@ -73,11 +73,9 @@ puedes escribir una respuesta detallada a la pregunta. Puedes incluir ejemplos, 
 -	Párrafos:  ## Párrafos
 -	Encabezados (de distintos niveles): ## Encabezados  ### Encabezado de nivel 3
 -	Enlaces externos: ## Enlaces externos
-Ejemplos: puedes visitar [Wikipedia - Markdown](https://es.wikipedia.org/wiki/Markdown) para obtener más información sobre Markdown.
+Ejemplos: puedes visitar [nombre del enlace](URL de la pagina) para obtener más información sobre Markdown.
 
--	Imágenes: ## Imágenes
-
-![Logo de Markdown](https://markdown-here.com/img/icon256.png)
+-	Imágenes: ## Imágenes (![Logo de Markdown](https://markdown-here.com/img/icon256.png))
 
 -	Texto en negrita: *cursiva* , _cursiva_
 -	Bloques o líneas de código: `print("Hola, mundo!")`
