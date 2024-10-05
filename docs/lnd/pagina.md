@@ -152,7 +152,7 @@ Diferencias: Es un parser de Markdown altamente extensible y rápido que permite
 
 Diferencias: Utilizado principalmente en el contexto de Pandoc, esta variante soporta un conjunto extenso de características, incluyendo referencias bibliográficas, soporte para múltiples formatos de salida y un gran número de extensiones.
 
-## Pregunta 7
+## Pregunta 8
 **¿Cómo puede ser útil Markdown en el trabajo colaborativo en proyectos de software? Investiga  cómo Markdown es utilizado en entornos de colaboración, como en la documentación de proyectos de software en GitHub o la creación de archivos README.**
 
 **Respuesta:**  
