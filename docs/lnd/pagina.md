@@ -76,6 +76,7 @@ puedes escribir una respuesta detallada a la pregunta. Puedes incluir ejemplos, 
 Ejemplos: puedes visitar [Wikipedia - Markdown](https://es.wikipedia.org/wiki/Markdown) para obtener más información sobre Markdown.
 
 -	Imágenes: ## Imágenes
+
 ![Logo de Markdown](https://markdown-here.com/img/icon256.png)
 
 -	Texto en negrita: *cursiva* , _cursiva_
