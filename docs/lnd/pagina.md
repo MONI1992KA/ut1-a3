@@ -72,7 +72,10 @@ puedes escribir una respuesta detallada a la pregunta. Puedes incluir ejemplos, 
 **Respuesta:**  
 -	Párrafos:  ## Párrafos
 -	Encabezados (de distintos niveles): ## Encabezados  ### Encabezado de nivel 3
--	Texto en negrita: *cursiva* , _cursiva_
+-	Texto en negrita:
+ ```
+*cursiva* , _cursiva_ 
+```
 -	Listas: se pueden usar (-,*, o +) 
 -	Una tabla: 
 ```
@@ -83,6 +86,7 @@ puedes escribir una respuesta detallada a la pregunta. Puedes incluir ejemplos, 
 | Pedro    | 28   | Valencia    |
 ```
 -	Enlace que permita acceder a otro documento: texto de enlace con [ ] y URL con ( ). 
+
 Ejemplo: Puedes consultar más sobre Markdown en [Wikipedia - Markdown](https://es.wikipedia.org/wiki/Markdown).
 
 ## Notas Adicionales
