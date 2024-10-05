@@ -49,7 +49,7 @@ Inconvenientes:
 ---
 
 ## Pregunta 3
-**¿Cuál es el tema de la pregunta?**
+**¿Qué aplicaciones o plataformas utilizan Markdown? Busca ejemplos de plataformas populares donde se utilice Markdown, como GitHub, blogs, o gestores de contenido. ¿Por qué crees que esas plataformas han adoptado Markdown?**
 
 **Respuesta:**  
 Aquí puedes escribir una respuesta detallada a la pregunta. Puedes incluir ejemplos, datos o cualquier información relevante.
