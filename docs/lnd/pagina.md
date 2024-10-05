@@ -73,6 +73,7 @@ puedes escribir una respuesta detallada a la pregunta. Puedes incluir ejemplos, 
 -	Párrafos:  ## Párrafos
 -	Encabezados (de distintos niveles): ## Encabezados  ### Encabezado de nivel 3
 -	Enlaces externos: ## Enlaces externos
+
 Ejemplos: puedes visitar [nombre del enlace](URL de la pagina) para obtener más información sobre Markdown.
 
 -	Imágenes: ## Imágenes (![Logo de Markdown](https://markdown-here.com/img/icon256.png))
