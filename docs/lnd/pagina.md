@@ -129,15 +129,26 @@ Markdown es más sencillo y legible, permitiendo que el enfoque esté en el cont
 **Respuesta:**  
 Esta son algunas de las variaciones que existen de Markdown:
 +	GitHub Flavored Markdown (GFM)
+
 Diferencias: GFM incluye características adicionales como tablas, listas de tareas, y sintaxis para mencionar usuarios y referencias a problemas. También permite el uso de HTML en mayor medida y una mejor integración con el control de versiones de GitHub.
+
 +	Markdown Extra
+
 Diferencias: Esta versión añade soporte para tablas, notas al pie y mejor manejo de HTML, así como la capacidad de definir encabezados de niveles múltiples con mayor flexibilidad.
+
 +	CommonMark
+
 Diferencias: CommonMark busca estandarizar la sintaxis de Markdown, creando un formato más predecible y consistente. Se basa en la versión original de Markdown, pero define reglas claras para cada elemento y proporciona una especificación formal.
+
 +	MultiMarkdown
+
 Diferencias: Añade soporte para tablas, referencias bibliográficas y metadatos. También permite la salida a diferentes formatos, como LaTeX y HTML, lo que es útil para publicaciones académicas.
+
 +	Markdown-it
+
 Diferencias: Es un parser de Markdown altamente extensible y rápido que permite la creación de plugins para añadir funcionalidades personalizadas, como la mejora en la gestión de imágenes, listas y más.
+
 +	Pandoc Markdown
+
 Diferencias: Utilizado principalmente en el contexto de Pandoc, esta variante soporta un conjunto extenso de características, incluyendo referencias bibliográficas, soporte para múltiples formatos de salida y un gran número de extensiones.
 
