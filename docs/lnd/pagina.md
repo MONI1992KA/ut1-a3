@@ -53,10 +53,13 @@ Inconvenientes:
 
 **Respuesta:**  
 Algunas plataformas populares que utilizan Markdown incluyen:
+
 -   GitHub: para documentación de proyectos y archivos README.
 -	WordPress: en algunos plugins y editores.
 -	Notion: para tomar notas y organizar información.
+
 Razones para adoptar Markdown
+
 -	Sencillez y eficiencia en la edición.
 -	Facilita la colaboración entre usuarios técnicos y no técnicos.
 puedes escribir una respuesta detallada a la pregunta. Puedes incluir ejemplos, datos o cualquier información relevante.
