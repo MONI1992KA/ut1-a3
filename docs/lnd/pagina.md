@@ -115,6 +115,8 @@ Funciona: copia y pega tu contenido en el editor, luego usa la opción de export
 </p>
 
 
+
+
 ## Notas Adicionales
 Si hay información adicional o consideraciones que desees mencionar, este es el lugar para hacerlo.
 
