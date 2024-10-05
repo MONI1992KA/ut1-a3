@@ -89,6 +89,24 @@ puedes escribir una respuesta detallada a la pregunta. Puedes incluir ejemplos, 
 
 Ejemplo: Puedes consultar más sobre Markdown en [Wikipedia - Markdown](https://es.wikipedia.org/wiki/Markdown).
 
+## Pregunta 3
+**¿Cómo se puede visualizar y convertir un archivo escrito en Markdown a otros formatos, como HTML o PDF? Busca herramientas o aplicaciones que permitan convertir Markdown a otros formatos, y explica cómo funcionan.**
+
+**Respuesta:**  
+Gracias a varias herramientas podemos convertir Markdown a otros formatos:
+1. Pandoc
+Descripción: Pandoc es una herramienta de línea de comandos muy potente que puede convertir documentos en diferentes formatos, incluyendo Markdown, HTML y PDF.
+Funciona con comandos en la terminal. Por ejemplo, para convertir un archivo Markdown a HTM. (pandoc archivo.md -o archivo.htmlL.)
+2. Visual Studio Code con Extensiones
+Descripción: Visual Studio Code es un editor de código que soporta Markdown a través de extensiones.
+Funciona:
+Instalación: Descarga Visual Studio Code desde su sitio oficial.
+Extensión: Instala la extensión "Markdown PDF" desde el marketplace.
+Uso: Abre el archivo Markdown, luego usa el comando para exportar a PDF (Ctrl + Shift + P y escribe "Markdown PDF: Export (pdf)").
+3. Dillinger 
+Descripción: Dillinger es un editor de Markdown en línea que permite exportar a varios formatos.
+Funciona: copia y pega tu contenido en el editor, luego usa la opción de exportar para guardarlo como HTML o PDF.
+
 ## Notas Adicionales
 Si hay información adicional o consideraciones que desees mencionar, este es el lugar para hacerlo.
 
