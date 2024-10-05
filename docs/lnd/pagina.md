@@ -123,9 +123,21 @@ Funciona: copia y pega tu contenido en el editor, luego usa la opción de export
 **Respuesta:**  
 Markdown es más sencillo y legible, permitiendo que el enfoque esté en el contenido en lugar del formato. Los archivos son portátiles y fáciles de abrir en cualquier editor, reduce la dependencia de software específico, lo que también minimiza problemas de compatibilidad.
 
+## Pregunta 7
+**¿Existen diferentes "sabores" o variaciones de Markdown? Investiga si hay diferentes versiones o extensiones de Markdown, como GitHub Flavored Markdown (GFM). ¿En qué se diferencian de la versión estándar?**  
 
-
-
-## Notas Adicionales
-Si hay información adicional o consideraciones que desees mencionar, este es el lugar para hacerlo.
+**Respuesta:**  
+Esta son algunas de las variaciones que existen de Markdown:
+1.	GitHub Flavored Markdown (GFM):
+•	Diferencias: GFM incluye características adicionales como tablas, listas de tareas, y sintaxis para mencionar usuarios y referencias a problemas. También permite el uso de HTML en mayor medida y una mejor integración con el control de versiones de GitHub.
+2.	Markdown Extra:
+•	Diferencias: Esta versión añade soporte para tablas, notas al pie y mejor manejo de HTML, así como la capacidad de definir encabezados de niveles múltiples con mayor flexibilidad.
+3.	CommonMark:
+•	Diferencias: CommonMark busca estandarizar la sintaxis de Markdown, creando un formato más predecible y consistente. Se basa en la versión original de Markdown, pero define reglas claras para cada elemento y proporciona una especificación formal.
+4.	MultiMarkdown:
+•	Diferencias: Añade soporte para tablas, referencias bibliográficas y metadatos. También permite la salida a diferentes formatos, como LaTeX y HTML, lo que es útil para publicaciones académicas.
+5.	Markdown-it:
+•	Diferencias: Es un parser de Markdown altamente extensible y rápido que permite la creación de plugins para añadir funcionalidades personalizadas, como la mejora en la gestión de imágenes, listas y más.
+6.	Pandoc Markdown:
+•	Diferencias: Utilizado principalmente en el contexto de Pandoc, esta variante soporta un conjunto extenso de características, incluyendo referencias bibliográficas, soporte para múltiples formatos de salida y un gran número de extensiones.
 
