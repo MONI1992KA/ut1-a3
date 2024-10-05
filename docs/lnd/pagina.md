@@ -117,6 +117,12 @@ Descripción: Dillinger es un editor de Markdown en línea que permite exportar 
 Funciona: copia y pega tu contenido en el editor, luego usa la opción de exportar para guardarlo como HTML o PDF.
 </p>
 
+## Pregunta 6
+**¿Qué ventajas tiene escribir documentación o notas en Markdown frente a usar procesadores de texto como Microsoft Word o Google Docs? Analiza las diferencias y las ventajas que puede tener escribir en un lenguaje de marcas sencillo como Markdown en lugar de usar un procesador de texto tradicional.**  
+
+**Respuesta:**  
+Markdown es más sencillo y legible, permitiendo que el enfoque esté en el contenido en lugar del formato. Los archivos son portátiles y fáciles de abrir en cualquier editor, reduce la dependencia de software específico, lo que también minimiza problemas de compatibilidad.
+
 
 
 
