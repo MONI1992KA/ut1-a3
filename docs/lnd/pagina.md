@@ -72,24 +72,18 @@ puedes escribir una respuesta detallada a la pregunta. Puedes incluir ejemplos, 
 **Respuesta:**  
 -	Párrafos:  ## Párrafos
 -	Encabezados (de distintos niveles): ## Encabezados  ### Encabezado de nivel 3
--	Enlaces externos: ## Enlaces externos
-
-Ejemplos: puedes visitar [nombre del enlace](URL de la pagina) para obtener más información sobre Markdown.
-
--	Imágenes: ## Imágenes (![Logo de Markdown](https://markdown-here.com/img/icon256.png))
-
 -	Texto en negrita: *cursiva* , _cursiva_
--	Bloques o líneas de código: `print("Hola, mundo!")`
 -	Listas: se pueden usar (-,*, o +) 
 -	Una tabla: 
-
+```
 | Nombre   | Edad | Ciudad |
 |----------|------|------------- |
 | Juan     | 30   | Madrid        |
 | María    | 25   | Barcelona |
 | Pedro    | 28   | Valencia    |
-
--	Enlace que permita acceder a otro documento: texto de enlace con [ ] y URL con ( ). Ejemplo: Puedes consultar más sobre Markdown en [Wikipedia - Markdown](https://es.wikipedia.org/wiki/Markdown).
+```
+-	Enlace que permita acceder a otro documento: texto de enlace con [ ] y URL con ( ). 
+Ejemplo: Puedes consultar más sobre Markdown en [Wikipedia - Markdown](https://es.wikipedia.org/wiki/Markdown).
 
 ## Notas Adicionales
 Si hay información adicional o consideraciones que desees mencionar, este es el lugar para hacerlo.
